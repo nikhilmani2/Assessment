@@ -1,5 +1,5 @@
 # Assessment
-<img src ="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" width="300" height ="300">
+<img src ="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" width="150" height ="150">
 
 |Question|Link of the Code|Link of Pushed File|
 ---|---|---|
